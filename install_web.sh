@@ -1,2 +1,2 @@
 apt-get uodate -y
-apt-get install -y nging
+apt-get install -y nginx
